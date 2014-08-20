@@ -10,3 +10,5 @@ This repository contains solution to various algorithm problems posted on Hacker
 3) Love Letter
 
 4) Gem Stone
+
+5) Game of Throne - 1
