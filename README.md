@@ -12,3 +12,5 @@ This repository contains solution to various algorithm problems posted on Hacker
 4) Gem Stone
 
 5) Game of Throne - 1
+
+6) Angry Children
