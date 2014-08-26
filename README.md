@@ -14,3 +14,5 @@ This repository contains solution to various algorithm problems posted on Hacker
 5) Game of Throne - 1
 
 6) Angry Children
+
+7) Sansa and XOR
