@@ -16,3 +16,5 @@ This repository contains solution to various algorithm problems posted on Hacker
 6) Angry Children
 
 7) Sansa and XOR
+
+8) Lexiographic Paths
